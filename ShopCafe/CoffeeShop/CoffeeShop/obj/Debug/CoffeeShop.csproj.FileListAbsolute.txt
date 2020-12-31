@@ -1,0 +1,13 @@
+C:\Users\Admin\OneDrive\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+C:\Users\Admin\OneDrive\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+C:\Users\Admin\OneDrive\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+C:\Users\Admin\OneDrive\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.fAdmin.resources
+C:\Users\Admin\OneDrive\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.fLogin.resources
+C:\Users\Admin\OneDrive\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.fTableManager.resources
+C:\Users\Admin\OneDrive\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+C:\Users\Admin\OneDrive\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+C:\Users\Admin\OneDrive\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.fAccountProfile.resources
